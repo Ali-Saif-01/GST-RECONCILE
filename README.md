@@ -1,4 +1,4 @@
-# GST Reconcile — Code Klesh 2026 MVP
+# GST Reconcile 
 
 **From reconciliation to resolution.**
 
